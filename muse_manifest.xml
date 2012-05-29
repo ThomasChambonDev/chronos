@@ -1,0 +1,43 @@
+<manifest alg="2" build="948" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="4075768122"/>
+    <file name="master_a-gabarit.css" crc="4136317699" ref="index:page-presse:page-contact"/>
+    <file name="index.css" crc="421826208" ref="index"/>
+    <file name="page-presse.css" crc="4188356980" ref="page-presse"/>
+    <file name="page-contact.css" crc="4245260123" ref="page-contact"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="4285342938" ref="index:page-presse:page-contact"/>
+      <file name="sprydomutils.js" crc="4230755498" ref="index:page-presse:page-contact"/>
+      <file name="museutils.js" crc="3762396489" ref="index:page-presse:page-contact"/>
+      <file name="pie.js" crc="4169505556" ref="index:page-presse:page-contact"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="img_fond.png" crc="346314497" ref="index:page-presse:page-contact"/>
+    <file name="logo.png" crc="5549942" ref="index:page-presse:page-contact"/>
+    <file name="menu.png" crc="293794315" ref="index:page-presse:page-contact"/>
+    <file name="menu2.png" crc="528912163" ref="index:page-presse:page-contact"/>
+    <file name="menu3.png" crc="464135582" ref="index:page-presse:page-contact"/>
+    <file name="menu4.png" crc="388369530" ref="index:page-presse:page-contact"/>
+    <file name="logo_primé.png" crc="4001211490" ref="index:page-presse:page-contact"/>
+    <file name="menu5.png" crc="3948008544" ref="index:page-presse:page-contact"/>
+    <file name="menu6.png" crc="3865702156" ref="index:page-presse:page-contact"/>
+    <file name="btn_acheter.png" crc="3881620232" ref="index"/>
+    <file name="img_principe.png" crc="497501772" ref="index"/>
+    <file name="img_regle2.png" crc="4108236077" ref="index"/>
+    <file name="img_regle1.png" crc="3802981898" ref="index"/>
+    <file name="cartes_points.png" crc="3838136992" ref="index"/>
+    <file name="cartesdieux.png" crc="110759588" ref="index"/>
+    <file name="img_joueurs.png" crc="459281377" ref="index"/>
+    <file name="img_poseidon.png" crc="272085759" ref="index:page-presse:page-contact"/>
+    <file name="img_extention.png" crc="304119511" ref="index:page-presse:page-contact"/>
+    <file name="img_footer.png" crc="4133932270" ref="index:page-presse:page-contact"/>
+    <file name="img_contact2.png" crc="4202926119" ref="page-contact"/>
+    <file name="img_contact.png" crc="82965423" ref="page-contact"/>
+  </folder>
+  <file name="index.html" crc="4269228256" mt="1337612163973"/>
+  <file name="page-presse.html" crc="4079103502" mt="1337616462114"/>
+  <file name="page-contact.html" crc="197939926" mt="1337612489037"/>
+</manifest>
