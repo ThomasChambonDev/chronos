@@ -185,7 +185,15 @@ body
 }
 
 .element_presse{
+	display: block;
+	padding-left: 20px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+.image_presse{
 	padding-left: 20px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	min-width: 40%;
+	max-width: 85%;
 }
